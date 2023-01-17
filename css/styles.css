@@ -4,9 +4,11 @@ html{
 }
 body{
     background-color: aliceblue;
-    
 }
 
 h2, h3{
     font-style: italic;
+}
+li{
+    margin-bottom: 30px;
 }
