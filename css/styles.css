@@ -1,0 +1,12 @@
+html{
+    width: 30%;
+    margin-left: 10px;
+}
+body{
+    background-color: aliceblue;
+    
+}
+
+h2, h3{
+    font-style: italic;
+}
